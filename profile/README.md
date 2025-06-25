@@ -1,5 +1,3 @@
-![RelationalFbric Logo](./images/logo-large.png)
-
 Welcome to **RelationalFabric**, where we believe the true power of data lies in its relationships, its interconnectedness, and its ability to be composed into something greater.
 
 In today's digital landscape, groundbreaking advancements in database technology, distributed systems, and theoretical research often remain siloed, hidden away in complex implementations or academic papers. The building blocks that could revolutionize how we interact with and manage information are frequently out of reach, hindering innovation and fostering unnecessary complexity.
